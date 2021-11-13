@@ -2,7 +2,7 @@
 description: overview
 ---
 
-## `Go`概览
+## `Go` - 概览
 
 `Go`是一门从设计之初就考虑系统编程的一门通用语言，在2007年由Google的三位工程师——`Robert Griesemer`、`Rob Pike`、 `Ken Thompson`开始设计并开发。`Go`语言是一门强类型的静态语言，内置垃圾回收、并行编程。
 

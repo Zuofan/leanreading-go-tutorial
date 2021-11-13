@@ -2,6 +2,35 @@
 description: 第一个程序Hello World!
 ---
 
+## `GO`入门指南
+
+0/24 **Go - 程序实例** **^0%^**
+1/24 Go - 介绍 **^98%^**
+2/24 Go - 概览 **^98%^**
+3/24 Go - 环境变量
+4/24 Go - Programm Structure
+5/24 Go - 基础语法
+6/24 Go - 数据类型
+7/24 Go - 变量
+8/24 Go - 常量
+9/24 Go - 操作符
+10/24 Go - Decision Making
+11/24 Go - 循环
+12/24 Go - 函数
+13/24 Go - Scope Rules
+14/24 Go - 字符串
+15/24 Go - 数组
+16/24 Go - 指针
+17/24 Go - 结构体
+18/24 Go - Slice
+19/24 Go - Range
+20/24 Go - Maps
+21/24 Go - Recursion
+22/24 Go - Type Casting
+23/24 Go - Interfaces
+
+`Go`入门指南包括23个章节，再加一份`Go`程序实例。一共24个单元来阐述`Go`语言的基础知识。
+
 ## `Go`简介
 
 `Go`语言最初由` Robert Griesemer, Rob Pike, and Ken Thompson`[^1]于2007年在Google开始设计和实现。`Go`语言类似于`C`语言，是一门静态类型语言。`Go`提供的特性包括：垃圾收集器[^2]、类型安全、动态语言的`动态类型(Dynamic-typing capability)`，还有一些内置的类型，比如`变长数组类型(Variable Length Arrays)和map类型`。`Go`也提供一个功能丰富的标准库，方便程序员使用。在2009年11月份，`Go`语言被正式发布。目前，`Go`语言也被用在Google的一些生产系统中。
